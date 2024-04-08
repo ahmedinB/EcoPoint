@@ -4,7 +4,9 @@ Abstract— This paper presents an intelligent waste sorting system that utilize
 
 Demo:
 
-![image](https://github.com/ahmedinB/EcoPoint/assets/62029069/e13a11aa-c387-4bfd-a88c-99bac3a1f098)
+![image](https://github.com/ahmedinB/EcoPoint/assets/62029069/82cca546-2b32-4f9c-9181-090c25052e97)
+![image](https://github.com/ahmedinB/EcoPoint/assets/62029069/7465dc19-7176-47d5-ac27-f50929763906)
+![image](https://github.com/ahmedinB/EcoPoint/assets/62029069/5989ea03-7a7f-4c9a-ae21-b3e39f3b992e)
 
 
 IEEE link will be available soon.
