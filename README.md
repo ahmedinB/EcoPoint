@@ -3,7 +3,7 @@
  
 Abstract— This paper presents an intelligent waste sorting system that utilizes computer vision and deep learning to accurately categorize waste items. Moreover, the system incentivizes proper waste disposal through a rewards scheme. Testing indicated over 90% accuracy in classifying waste into multiple categories. This sustainable solution has strong potential to address critical waste management challenges.
 
-Demo:
+Demo:https://www.youtube.com/watch?v=Z-s6qsJ02YE&ab_channel=EcoPoint
 
 ![image](https://github.com/ahmedinB/EcoPoint/assets/62029069/82cca546-2b32-4f9c-9181-090c25052e97)
 ![image](https://github.com/ahmedinB/EcoPoint/assets/62029069/7465dc19-7176-47d5-ac27-f50929763906)
