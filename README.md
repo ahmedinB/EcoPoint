@@ -10,4 +10,4 @@ Demo:https://www.youtube.com/watch?v=Z-s6qsJ02YE&ab_channel=EcoPoint
 ![image](https://github.com/ahmedinB/EcoPoint/assets/62029069/5989ea03-7a7f-4c9a-ae21-b3e39f3b992e)
 
 
-IEEE link will be available soon.
+IEEE link https://ieeexplore.ieee.org/document/10604533
